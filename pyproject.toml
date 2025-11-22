@@ -1,0 +1,9 @@
+# pyproject.toml
+[project]
+name = "reaction-game"
+version = "0.1.0"
+description = "Pokemon Reaction Game for project submission"
+dependencies = [
+    "requests",
+    "Pillow",
+]
